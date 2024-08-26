@@ -52,7 +52,6 @@ This project is a mall driveway automation system built using an Arduino microco
 
 ## Future Enhancements
 
-- Integrating a system to count available parking slots based on real-time data.
 - Implementing a mobile app to display parking availability remotely.
 - Adding RFID or camera-based vehicle recognition for enhanced security.
 
